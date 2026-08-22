@@ -108,10 +108,9 @@ repository]]. If you find a bug, please report it in the [[https://github.com/da
   and HTML documentation. The resulting .rst files are used for the online
   documentation on [[https://readthedocs.io]].
 
-  The end user documentation is generated after committing to the
-  main repository. It's advisable to build
-  both html and info documentation locally and verify the output to
-  make sure the changes looks as expected.
+  The end user documentation is generated after committing to the main
+  repository. It's advisable to build both html and info documentation locally
+  and verify the output to make sure the changes looks as expected.
 *** Setup
     :PROPERTIES:
     :CUSTOM_ID: documentation_setup
